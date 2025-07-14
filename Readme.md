@@ -16,7 +16,7 @@ Aplikasi ini adalah aplikasi web interaktif untuk menampilkan visualisasi berbag
 ----------------------------------------------------------------
 ```
 algoritma-analyzer/
-├── index.html       -> Halaman web utama
+├── index.php        -> Halaman web utama
 ├── Dockerfile       -> Instruksi build Docker image
 ├── nginx.conf       -> Konfigurasi Nginx
 ├── README.txt       -> Dokumentasi proyek
