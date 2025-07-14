@@ -14,11 +14,15 @@ Aplikasi ini adalah aplikasi web interaktif untuk menampilkan visualisasi berbag
 ----------------------------------------------------------------
 📁 Struktur File
 ----------------------------------------------------------------
+```
 algoritma-analyzer/
 ├── index.html       -> Halaman web utama
-├── Dockerfile       -> Instruksi untuk build Docker image
+├── Dockerfile       -> Instruksi build Docker image
 ├── nginx.conf       -> Konfigurasi Nginx
-└── README.txt       -> Dokumentasi ini
+├── README.txt       -> Dokumentasi proyek
+└── Kesimpulan_Analisis_Searching_Sorting.docx -> Kesimpulan analisis
+```
+
 
 ----------------------------------------------------------------
 🚀 Cara Menjalankan (Lokal via Docker)
