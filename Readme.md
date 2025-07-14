@@ -49,7 +49,7 @@ docker rm analyzer-web
 🧠 Kebutuhan Sistem
 ----------------------------------------------------------------
 - Docker sudah terinstall
-- Browser modern (Chrome, Firefox, Edge, dsb.)
+- Browser (Chrome, Firefox, Edge, dsb.)
 
 ----------------------------------------------------------------
 👨‍💻 Pembuat
