@@ -20,7 +20,6 @@ algoritma-analyzer/
 ├── Dockerfile       -> Instruksi build Docker image
 ├── nginx.conf       -> Konfigurasi Nginx
 ├── README.txt       -> Dokumentasi proyek
-└── Kesimpulan_Analisis_Searching_Sorting.docx -> Kesimpulan analisis
 ```
 
 
